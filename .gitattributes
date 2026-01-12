@@ -4,3 +4,4 @@ models/ahs_seg_coco_full/model_0064999.pth filter=lfs diff=lfs merge=lfs -text
 models/ahs_seg_coco_full/model_0069999.pth filter=lfs diff=lfs merge=lfs -text
 models/ahs_seg_coco_full/model_0074999.pth filter=lfs diff=lfs merge=lfs -text
 models/ahs_seg_coco_full/model_0079999.pth filter=lfs diff=lfs merge=lfs -text
+models/ahs_seg_coco_full/model_final.pth filter=lfs diff=lfs merge=lfs -text
